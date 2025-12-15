@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m 👋
 
-<!--
-**minsolmaru/minsolmaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Advanced Computing (Data Science) @ University of Sydney  
+📊 Interested in Data Science, Analytics, Risk & Software  
+🚀 Currently working on data & software projects
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Python, R, SQL
+- Pandas, NumPy, scikit-learn
+- Git, Linux
+- Power BI / Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Housing affordability & regression analysis
+- Data dashboards using SQL + BI tools
+- Software engineering group projects
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/minsu-kim-a1aa88239
+- Email: minsukim006@gmail.com
