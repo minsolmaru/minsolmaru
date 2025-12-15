@@ -56,7 +56,7 @@ Interested in Data Science & Risk Analytics
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/minsolmaru/" target="_blank">
+  <a href="https://leetcode.com/minsolmaru" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode" />
   </a>
 
