@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Minsu Kim
-==================================================================================================================================
-
+# My name is Minsu Kim ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Data Science student @ USYD | Python, SQL, R
---------------------------------------------
 
-Interested in Data Science, Analytics, Risk & Software
+Interested in Data Science & Risk Analytics
 
 ### Skills 
 
