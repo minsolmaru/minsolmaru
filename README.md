@@ -1,25 +1,50 @@
 # My name is Minsu Kim ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 Interested in Data Science & Risk Analytics
 <h3 align="center">Stats</h3>
-
-<a href="http://www.github.com/minsolmaru"><img src="https://github-readme-stats.vercel.app/api?username=minsolmaru&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="minsolmaru's GitHub stats" /></a> <a href="http://www.github.com/minsolmaru"><img src="https://github-readme-streak-stats.herokuapp.com/?user=minsolmaru&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="http://www.github.com/minsolmaru">
+        <img src="https://github-readme-stats.vercel.app/api?username=minsolmaru&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="minsolmaru's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/minsolmaru">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=minsolmaru&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Skills</h3>
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-Databases-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
+         width="40" height="40" alt="Python" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg"
+         width="40" height="40" alt="R" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+         width="40" height="40" alt="Git" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+         width="40" height="40" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+         width="40" height="40" alt="Linux" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+         width="40" height="40" alt="Docker" />
+  </a>
 </p>
 
-<p align="center">
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Data_Engineering-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
 <h3 align="center">Socials</h3>
 
